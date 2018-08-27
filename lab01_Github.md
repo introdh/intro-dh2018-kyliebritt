@@ -54,5 +54,7 @@ Harrisonburg, VA
 ## Digital
 ### Film: *Sorry to Bother You* (2018)
 
-Insert Link
-### Describe two pieces of digital content (i.e. film, meme, tweet, etc) you interacted with over the summer and why it was memorable. One should be an image and the other a video. Include an image and YouTube Video of the piece of media.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XthLQZWIshQ
+" target="_blank"><img src="http://img.youtube.com/vi/XthLQZWIshQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+### Film: *To Wong Foo, Thanks for Everything, Julie Newmar* (1995)
