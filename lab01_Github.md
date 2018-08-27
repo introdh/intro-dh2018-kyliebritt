@@ -60,4 +60,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 ### Film: *To Wong Foo, Thanks for Everything, Julie Newmar* (1995)
-![alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwik9cb5s47dAhWkc98KHYyrCaUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.broadwayworld.com%2Fboard%2Freadmessage.php%3Fthread%3D1028517%26page%3D2&psig=AOvVaw1nHgEjbMDrVARWtY_vnDRJ&ust=1535499434599503 "To Wong Foo")
+![alt text]( http://www.homorazzi.com/wp-content/uploads/2009/05/movie-comedy-wong-foo-julie-newmar.jpg "To Wong Foo")
