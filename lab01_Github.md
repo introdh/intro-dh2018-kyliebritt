@@ -38,3 +38,21 @@ In markdown, please complete the following tasks using the [Markdown Cheat Sheet
 - Create a section header called "Digital" and answer the following:
 	- Describe two pieces of digital content (i.e. film, meme, tweet, etc) you interacted with over the summer and why it was memorable. One should be an image and the other a video. Include an image and YouTube Video of the piece of media. 
   - Add a link to the piece of media that is clickable.  
+  
+  #Info
+##Kylie Britt (she/her)
+##Harrisonburg, VA
+
+#Questions
+1. *What are you most nervous about this semester?*
+  I am nervous that not all of my courses fulfill credit necessary for my majors. 
+2. *What you you most excited about this semester?*
+  I have a solid mix of humanities and technical courses. 
+3. *Why did you choose to take this course?*
+  As a science person, I LOVE data and I got to see Jack Ginseng's talk last semester and I was enthralled. 
+
+#Digital
+##Film: *Sorry to Bother You* (2018)
+
+Insert Link
+##Describe two pieces of digital content (i.e. film, meme, tweet, etc) you interacted with over the summer and why it was memorable. One should be an image and the other a video. Include an image and YouTube Video of the piece of media.
