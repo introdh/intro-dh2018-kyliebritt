@@ -5,7 +5,7 @@ Harrisonburg, VA
 ## Questions
 1. *What are you most nervous about this semester?*
  
- I am nervous that not all of my courses fulfill credit necessary for my majors. 
+I am nervous about juggling graduate school applications with classwork. 
 
 2. *What you you most excited about this semester?*
  
