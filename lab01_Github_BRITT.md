@@ -4,11 +4,14 @@ Harrisonburg, VA
 
 ## Questions
 1. *What are you most nervous about this semester?*
-  I am nervous that not all of my courses fulfill credit necessary for my majors. 
+ 
+ I am nervous that not all of my courses fulfill credit necessary for my majors. 
 2. *What you you most excited about this semester?*
-  I have a solid mix of humanities and technical courses. 
+ 
+ I have a solid mix of humanities and technical courses. 
 3. *Why did you choose to take this course?*
-  As a science person, I LOVE data and I got to see Jack Ginseng's talk last semester and I was enthralled. 
+ 
+ As a science person, I LOVE data and I got to see Jack Ginseng's talk last semester and I was enthralled. 
 
 ## Digital
 ### Film: *Sorry to Bother You* (2018)
