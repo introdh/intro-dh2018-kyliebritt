@@ -4,16 +4,22 @@ Topic Modeling Visualization: kyliebritt.github.io/dh-topic-models
 
 What is the scope of the journal?
 *European Judaism* is a biannual journal published for the expansion of scholarship on postwar European Jewish Studies. There is importance in developing a space for sharing Jewish history and studies to build a unified but diverse Jewish consciousness especially after the Holocaust. 
+
 What question(s) are you trying to answer?
 How is the Holocaust memorialized or intentionally forgotten? Perhaps not by Jewish scholars, but by the rest of Europe.
 How was Jewish identity constructed in Eastern Europe (the Soviet Bloc) during the Cold War?
 To what extent does gender influence the memorializing of the plight of Eastern European Jews?
+
 Which data did you select for the corpus? Make sure to specify the kind of data and periodization.
 I selected all 49 years of data available, since arguments on Holocaust and Jewish memory developed in the late 1970s- early 1980s, and I wanted to see how that compared to today.
 The articles included in each issue may range from literary studies, theology, history, to cultural studies. The mention of certain words in any of these articles may indicate the extent of memory regarding any given Jewish issue/event/identity. 
 
 Why the number of topics?
+After much trial and error, I selected 25 topics to be the most accurately grouped. There are groups that focus on specific nationalities, some that reference theology, and some that group and separate different Jewish identities. When I used too many topics, the groups became fragmented, for example, a group on the role of rabbis in synagogue and beyond was divided into topics on individual influential rabbis. 
+
 What are the initial findings and/or possible arguments? In other words, what do these topics tell us? Certain patterns? Trends?
+My initial reaction to the topics was finding most discussion of the Holocaust and its impacts to be relegated into one topic. The words associated with the Holocaust, such as *Auschwitz, survivors, and camps* are clearly grouped, but may not represent all of the articles about the impacts of the Final Solution. Other words that may be more easily associated with identity or war could appear more frequently in articles about the impacts of the Holocaust outside Europe or in postwar years. 
+Having historical context, I am not surprised that the words *Germany, Poland, and anti-semitism* are grouped. This indicates to me that the memories of post-war anti-semitism in the Eastern Bloc are being preserved by scholars. 
 Drawing on the readings, what are the possibilities and limitations of text analysis and topic modeling?
 More details:
 
