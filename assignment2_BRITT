@@ -1,10 +1,17 @@
 Topic Modeling Visualization: kyliebritt.github.io/dh-topic-models
 
-The 500-1500 word response should explain the data set, the initial findings, and how one would go about further exploring the data set/ findings/ arguments. In other words, the response should show that you understand what topic modeling is, how it works, and what we can learn from this method by way of applying it to a journal, which can be accomplished by addressing the following questions:
+<h3>Journal: European Judaism (1968-2017)</h3>
 
 What is the scope of the journal?
+*European Judaism* is a biannual journal published for the expansion of scholarship on postwar European Jewish Studies. There is importance in developing a space for sharing Jewish history and studies to build a unified but diverse Jewish consciousness especially after the Holocaust. 
 What question(s) are you trying to answer?
+How is the Holocaust memorialized or intentionally forgotten? Perhaps not by Jewish scholars, but by the rest of Europe.
+How was Jewish identity constructed in Eastern Europe (the Soviet Bloc) during the Cold War?
+To what extent does gender influence the memorializing of the plight of Eastern European Jews?
 Which data did you select for the corpus? Make sure to specify the kind of data and periodization.
+I selected all 49 years of data available, since arguments on Holocaust and Jewish memory developed in the late 1970s- early 1980s, and I wanted to see how that compared to today.
+The articles included in each issue may range from literary studies, theology, history, to cultural studies. The mention of certain words in any of these articles may indicate the extent of memory regarding any given Jewish issue/event/identity. 
+
 Why the number of topics?
 What are the initial findings and/or possible arguments? In other words, what do these topics tell us? Certain patterns? Trends?
 Drawing on the readings, what are the possibilities and limitations of text analysis and topic modeling?
