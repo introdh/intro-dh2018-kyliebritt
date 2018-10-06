@@ -2,25 +2,26 @@ Topic Modeling Visualization: kyliebritt.github.io/dh-topic-models
 
 <h3>Journal: European Judaism (1968-2017)</h3>
 
-What is the scope of the journal?
+**What is the scope of the journal?**
 *European Judaism* is a biannual journal published for the expansion of scholarship on postwar European Jewish Studies. There is importance in developing a space for sharing Jewish history and studies to build a unified but diverse Jewish consciousness especially after the Holocaust. 
+It is important to have an understanding of the mass of documents to be analyzed so that the topics produced can lead to more discovery rather than false conclusions. (Brett, JDH, 2012). 
 
-What question(s) are you trying to answer?
+**What question(s) are you trying to answer?**
+The questions I have formulated are based off my independent study into the history of Jewish identity and memory in Eastern Europe during the Cold War. 
 How is the Holocaust memorialized or intentionally forgotten? Perhaps not by Jewish scholars, but by the rest of Europe.
 How was Jewish identity constructed in Eastern Europe (the Soviet Bloc) during the Cold War?
 To what extent does gender influence the memorializing of the plight of Eastern European Jews?
+As I was scanning some articles of this *The Slavic and European Review*, I realized that this journal may not provide enough information regarding European Jewry to answer my questions. I searched for more journals and settled on *European Judaism*, which I believe can provide better analysis of post-war Jewish studies. As Goldstone and Underwood understood that PMLA could not represent all of modern language perfectly, I knew any journal would leave out some important issues/concepts, but topic modeling a journal about my subject could give insight into trends across time. (Goldstone and Underwood, JDH, 2012).
 
-Which data did you select for the corpus? Make sure to specify the kind of data and periodization.
+**Which data did you select for the corpus? Make sure to specify the kind of data and periodization.**
 I selected all 49 years of data available, since arguments on Holocaust and Jewish memory developed in the late 1970s- early 1980s, and I wanted to see how that compared to today.
 The articles included in each issue may range from literary studies, theology, history, to cultural studies. The mention of certain words in any of these articles may indicate the extent of memory regarding any given Jewish issue/event/identity. 
 
-Why the number of topics?
+**Why the number of topics?**
 After much trial and error, I selected 25 topics to be the most accurately grouped. There are groups that focus on specific nationalities, some that reference theology, and some that group and separate different Jewish identities. When I used too many topics, the groups became fragmented, for example, a group on the role of rabbis in synagogue and beyond was divided into topics on individual influential rabbis. 
 
-What are the initial findings and/or possible arguments? In other words, what do these topics tell us? Certain patterns? Trends?
+**What are the initial findings and/or possible arguments? In other words, what do these topics tell us? Certain patterns? Trends?**
 My initial reaction to the topics was finding most discussion of the Holocaust and its impacts to be relegated into one topic. The words associated with the Holocaust, such as *Auschwitz, survivors, and camps* are clearly grouped, but may not represent all of the articles about the impacts of the Final Solution. Other words that may be more easily associated with identity or war could appear more frequently in articles about the impacts of the Holocaust outside Europe or in postwar years. 
 Having historical context, I am not surprised that the words *Germany, Poland, and anti-semitism* are grouped. This indicates to me that the memories of post-war anti-semitism in the Eastern Bloc are being preserved by scholars. 
 Drawing on the readings, what are the possibilities and limitations of text analysis and topic modeling?
 More details:
-
-Citations: Use a modified format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date). Ex. (Blevins, personal blog, 09-09-2009) or (Goldstone and Underwood, JDH, 2012).
