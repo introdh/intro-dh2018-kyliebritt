@@ -14,7 +14,7 @@ To what extent does gender influence the memorializing of the plight of Eastern 
 As I was scanning some articles of this *The Slavic and European Review*, I realized that this journal may not provide enough information regarding European Jewry to answer my questions. I searched for more journals and settled on *European Judaism*, which I believe can provide better analysis of post-war Jewish studies. As Goldstone and Underwood understood that PMLA could not represent all of modern language perfectly, I knew any journal would leave out some important issues/concepts, but topic modeling a journal about my subject could give insight into trends across time. (Goldstone and Underwood, JDH, 2012).
 
 **Which data did you select for the corpus? Make sure to specify the kind of data and periodization.**
-I selected all 49 years of data available, since arguments on Holocaust and Jewish memory developed in the late 1970s- early 1980s, and I wanted to see how that compared to today.
+I selected all 49 years of data available, since arguments on Holocaust and Jewish memory developed in the late 1970s- early 1980s, and I wanted to see how that compared to today.<></>
 The articles included in each issue may range from literary studies, theology, history, to cultural studies. The mention of certain words in any of these articles may indicate the extent of memory regarding any given Jewish issue/event/identity. 
 
 **Why the number of topics?**
