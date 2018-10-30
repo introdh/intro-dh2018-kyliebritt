@@ -1,0 +1,11 @@
+# Network Analysis: Polish Jews in Positions of Power, 1944-1956#
+
+Data:
+In early postwar Poland, it was not uncommon for Jews to be appointed to high positions of power. Stalin himself even appointed some Jews to run some essential departments. I wondered if there were any patterns to the organizations that Polish Jews ran, and how a Network Analysis could elucidate the relationships of those organizations and their leaders. 
+My nodes represent different officials of Jewish heritage, and they are connected by edges which represent a shared organization. For this analysis, I counted a "shared organization" as a group in which both people held leadership positions. 
+There are only nine figures represented in my analysis, but up to six edges connecting a single leader. By analyzing the structure of a network, I intend to suggest some trends about Polish Jews in leadership positions. 
+
+Analysis:
+![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_degrees.JPG "Degrees")
+
+Limits & Benefits of Network Analysis:
