@@ -9,4 +9,7 @@ There are only nine figures represented in my analysis, but up to six edges conn
 ![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_degrees.JPG "Degrees")
 The above image shows the degree values of my nodes, and visually spaces each node and shows the edges. It is clear that some people are connected to only one or two others, but that some have many connections within this data set. 
 
-Limits & Benefits of Network Analysis:
+##Limits & Benefits of Network Analysis:##
+Network analysis offers a way to visualize relationships and draw conclusions from a new way of representing data. The fundamentals of networks include nodes (the stuff to be connected) and edges (the connections). Where an analysis can really occur is in the novel way that those relationships are laid out, and may illuminate conclusions never before understood. 
+In a network, the data can consist of multiple node types, such as authors and books, organizations and people, or cities and states. These bimodal networks can illustrate the relationships between types of things, but can also lead to false conclusions or connections that appear to be true based on the sheer proximity when placed into a network together.(Weingart, JDH, 2011)
+
