@@ -1,4 +1,5 @@
-# Network Analysis: Polish Jews in Positions of Power, 1944-1956 
+# Network Analysis: 
+# Polish Jews in Positions of Power, 1944-1956 
 
 ## Data:
 
