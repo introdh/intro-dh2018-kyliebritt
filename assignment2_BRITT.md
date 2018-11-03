@@ -21,7 +21,7 @@ The eigen function represents the influence of a node within its relationships t
 
 The closeness measurement shows here the average distance of a node to all other nodes. This can indicate a node’s centrality and may, in some cases, be related to spatial distance as well. There is no evidence that this data set could represent physical space, but those who have higher close values (ie are farther away) may hold positions in departments or organizations that are close to or far away from the majority of the other leaders in the network. Those located on the “outskirts” of this network may not work as closely with those with lower close values, as it may be more difficult to “travel” the relational distance between organizations and their leaders. 
 
-![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_between.JPG “Between”)
+![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_between.JPG“Between”)
 
 The between measurement shows the length of the shortest path that can be drawn without passing through an edge. This is a good representation of how easily the nodes are connection. The people represented by the red dots are clearly on the “outskirts” of the network, and therefore have the least “betweenness.” It is interesting to note that the only woman featured in this network has a between factor of 0. While Helena Wolinska-Brus may be more central in other networks of Jewish leaders, it is notable that based on my easily compiled data (from Wikipedia, the only source that would even give me this many Jewish leaders), she is located outside of, rather than between most nodes in the network. This may illuminate some understandings of gender as intersecting with Jewish ethnicity during the early postwar period in Poland. 
 
@@ -54,6 +54,8 @@ There are different types of edges as well, which can represent different types 
 
 Networking as a method of analysis can be compounded with other methods, such as with topic modeling. In his blog post “Topic Modeling and Networking,” Scott Weingart explains the ways topics of articles have been mapped to place them in a network of articles covering similar topics, which can be used to explore the trends of popular publications and research. (Weingart, personal blog, 2011) Network analysis can also be applied to spatial analyses to look into the ways in which a network is mapped over space. Not only can a network be used as a map, it can be applied to geographic space. In this way, network analysis and spatial mapping can be useful in multiple applications. (Weingart, personal blog, 2011)a
 
-### Nodes & Edges Dat
+### Nodes & Edges Data
+
 [Edges](https://docs.google.com/spreadsheets/d/16BiejTQ-EBtY1rNgLK5xjJhpWWgbjpkKEYVnLwB2eus/edit)
+
 [Nodes](https://docs.google.com/spreadsheets/d/1GrqyD47xRuzlvX565bXSklmP95Mb3vl6Tr_Trl1GrVs/edit#gid=0)
