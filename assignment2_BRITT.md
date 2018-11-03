@@ -17,24 +17,24 @@ The above image shows the degree values of my nodes, and visually spaces each no
 
 The eigen function represents the influence of a node within its relationships to the nodes around it (similarly, an Eigenfunction in Quantum Mechanics is a function that describes all physical characteristics of a system and therefore holds all influential data within it). Jozef Rozanski, given an eigen value of 1, is highly connected and is related to other nodes with many connections. His connections have made him the “most influential” by the standards of this function, and may elucidate information about his influence within this network of Jewish leaders. 
 
-![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_close.JPG “Close”)
+![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_close.JPG "Close")
 
 The closeness measurement shows here the average distance of a node to all other nodes. This can indicate a node’s centrality and may, in some cases, be related to spatial distance as well. There is no evidence that this data set could represent physical space, but those who have higher close values (ie are farther away) may hold positions in departments or organizations that are close to or far away from the majority of the other leaders in the network. Those located on the “outskirts” of this network may not work as closely with those with lower close values, as it may be more difficult to “travel” the relational distance between organizations and their leaders. 
 
-![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_between.JPG “Between”)
+![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_between.JPG "Between")
 
 The between measurement shows the length of the shortest path that can be drawn without passing through an edge. This is a good representation of how easily the nodes are connection. The people represented by the red dots are clearly on the “outskirts” of the network, and therefore have the least “betweenness.” It is interesting to note that the only woman featured in this network has a between factor of 0. While Helena Wolinska-Brus may be more central in other networks of Jewish leaders, it is notable that based on my easily compiled data (from Wikipedia, the only source that would even give me this many Jewish leaders), she is located outside of, rather than between most nodes in the network. This may illuminate some understandings of gender as intersecting with Jewish ethnicity during the early postwar period in Poland. 
 
-![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_cluster.JPG “Cluster”)
-
+![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_cluster.JPG "Cluster")
 The version of this network organized by cluster illustrates more specific “communities” within this network of Jews in positions of power. By understanding the data and visualizing the relationships, it is easy to see that the communities are structured based on the organizations in which multiple people held office. 
 
 In the first network below, the NKVD (The People's Commissariat for Internal Affairs) is highly represented in one cluster, while the Politburo (leadership of the Polish United Workers’ Party), is represented by another cluster.
 
 The second network below shows other organizations represented by the clusters, such as the State and Public Security Services. 
 
-![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_quality%201.JPG “Quality #1”)
-![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_quality%202.JPG “Quality #2”)
+![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_quality%201.JPG "Quality #1")
+
+![alt text](https://github.com/introdh/intro-dh2018-kyliebritt/blob/master/images/britt_quality%202.JPG "Quality #2")
 
 Though it is important to admit I can’t produce any conclusions from this much research and such a small network, I can make conjectures about trends and patterns I could look for in an expansion of this research. 
 
