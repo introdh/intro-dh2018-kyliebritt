@@ -1,6 +1,6 @@
-Spatial Data in Google Drive (https://docs.google.com/spreadsheets/d/1AL83h6dzZrpp-v-e6WA8ddJag3mmew0sZUUmMU9q8zE/edit?usp=sharing)
+[Spatial Data in Google Drive](https://docs.google.com/spreadsheets/d/1AL83h6dzZrpp-v-e6WA8ddJag3mmew0sZUUmMU9q8zE/edit?usp=sharing)
 
-Story Map 
+[Story Map](http://arcg.is/1PfiDD)
 
 
 Discuss the process of creating your data, building your map in ArcGIS Online, and selecting which points to feature in your Storymap.
