@@ -1,3 +1,5 @@
+# Grant Proposal: Exploring Cultural Production at the Jewish Culture Festival
+
 ## Table of Contents
 
 1…………Participants
@@ -52,7 +54,7 @@ This grant would provide the support for in-depth analysis of the impact of this
 
 Similar projects in the fields of cultural and festival studies have been performed, but none connected particularly to the Jewish Culture Festival in Krakow.
 
-Cultural studies enhanced by digitization of old documents include projects like “Key Documents of German-Jewish History. A Digital Source Edition” and “The Pinkassim Project.” The former makes accessible documents that played an important role in defining German-Jewish history from the 17th century, and adds analysis in the visual representation of chronological and spatial aspects of the documents featured.(3) The textual analysis planned for the Jewish Culture Festival project will add another layer to the archive of festival programs provided by the JCF website. A spatial representation of collaboration will contribute an additional kind of analysis. 
+Cultural studies enhanced by digitization of old documents include projects like “Key Documents of German-Jewish History. A Digital Source Edition” and “The Pinkassim Project.” The former makes accessible documents that played an important role in defining German-Jewish history from the 17th century, and adds analysis in the visual representation of chronological and spatial aspects of the documents featured. (3) The textual analysis planned for the Jewish Culture Festival project will add another layer to the archive of festival programs provided by the JCF website. A spatial representation of collaboration will contribute an additional kind of analysis. 
 
 “The Pinkassim Project” represents European Jewish communities by providing a digital archive of records and registers, known in Hebrew as pinkassim. From the project website, “In its first phase, the Pinkassim Project deals just with the pinkassim created by the community and regional councils and has also limited itself to those created in the early modern period (c.1500-1800).” (4) The project proposed for this grant seeks to step beyond this rudimentary evidence of community. 
 
