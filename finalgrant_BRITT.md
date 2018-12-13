@@ -6,15 +6,15 @@
 
 2…………Narrative
 
-2a…………Enhancing the Humanities
+  2a…………Enhancing the Humanities
 
-2b…………Environmental Scan
+  2b…………Environmental Scan
 
-2c…………History of the Project
+  2c…………History of the Project
 
-2d…………Work Plan
+  2d…………Work Plan
 
-2e…………Final Product and Dissemination
+  2e…………Final Product and Dissemination
 
 3…………Biographies
 
