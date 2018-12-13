@@ -1,4 +1,4 @@
-# Grant Proposal: Exploring Cultural Production at the Jewish Culture Festival
+# *Grant Proposal:* Exploring Cultural Production at the Jewish Culture Festival
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ A spatial analysis of the locations of collaborators is meant to assist in under
 
 The Jewish Culture Festival committee has recently commissioned the writing of three novels about the neighborhood of Kazimierz, where the festival takes place annually. The project, called O_Kaz, may offer insight into the connection of the festival to Kazimierz, its history, and its identity. As Kazimierz was a predominantly Jewish quarter of Krakow before 1941, when Jews were forcibly relocated to the Krakow ghetto, the neighborhood has historical connections to Jewish culture. The Jewish Culture Festival may be located in Kazimierz as a way to memorialize history and continue the cultural production that left off in 1941, and investigating the O_Kaz novels will look into the important connection between the festival and its location. 
 
-This grant would provide the support for in-depth analysis of the impact of this festival, and support for understanding contemporary Jewish dialogue within a site cultural production. 
+This grant would provide the support for in-depth analysis of the impact of this festival, and support for understanding contemporary Jewish dialogue within a site of cultural production. 
 
 ### 2b. Environmental Scan 
 
