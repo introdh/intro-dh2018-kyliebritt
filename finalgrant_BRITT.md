@@ -21,6 +21,7 @@
 ## 1. List of participants
 
 Kylie Britt
+
 University of Richmond
 
 ## 2. Narrative
@@ -79,7 +80,7 @@ The spatial analysis will be performed by collecting data from the programs on t
 
 As the commissioned O_Kaz novels become available, a text analysis of those documents will be completed as well. The patterns and themes of the books will be studied in connection to the Kazimierz neighborhood, and an analysis of the connection between space, place, and the festival will be performed. Some guiding questions will include: Is Kazimierz depicted as a site of vibrant contemporary cultural (Jewish) production? What do the descriptions of Kazimierz tell readers about the Jewish identity of the place? 
 
-### 2e. Final Product & Dissemination (500-1000)
+### 2e. Final Product & Dissemination
 
 The culmination of the research and analyses of this project will take several forms. A website, to act as a partner to the Jewish Culture Festival website, will offer insight to visitors about the cultural production taking place at the festival each year: the impact of participation by national identity, the influence of Jewish-Polish history, and what is being changed in Kazimierz. The website will also feature an interactive map based on the spatial analysis of festival participants. Users will be able to see the change in national representation by year, and be directed to more information about particular years’ festivals to connect the map with the themes outlined in the programs. The conversation between the spatial analysis and the text analyses (of the programs and the O_Kaz novels) will be made clear and easy to navigate for those wishing to learn more about the importance of the Jewish Culture Festival. 
 
@@ -101,7 +102,7 @@ Kylie Britt is an undergraduate student at the University of Richmond. She studi
 
 4 “The Pinkassim Project,” Israel Batal, et al. 
 
-5 Course Syllabus, [Festivals: Culture in the Making](http://course.festivals.coplacdigital.org/uncategorized/hum-473-festivals-course-syllabus/, Council of Public Liberal Arts Colleges)
+5 Course Syllabus, [Festivals: Culture in the Making](http://course.festivals.coplacdigital.org/uncategorized/hum-473-festivals-course-syllabus/), Council of Public Liberal Arts Colleges
 
 6 Miranda Limonczenko. “Glendi: A Santa Rosa Multi-Cultural Food Festival.” Digital project accessed at:  http://glendi.festivals.coplacdigital.org/
 
